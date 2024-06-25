@@ -19,9 +19,9 @@ Conducted exploratory data analysis to understand the distribution and relations
       Predicted outcomes on training and testing data.
       Evaluated model performance with classification reports.
 
-**Tools and Technologies:**
+## Tools and Technologies:
   "Utilized Python and libraries such as pandas, numpy, scikit-learn for data manipulation and model building."
   "Visualized data and model outcomes using matplotlib and seaborn."
 
-**Project Outcomes:**
+## Project Outcomes:
   "Successfully built a predictive model to classify loan delinquencies, contributing to more accurate risk assessment."
