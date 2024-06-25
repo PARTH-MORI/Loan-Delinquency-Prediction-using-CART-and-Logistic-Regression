@@ -14,6 +14,7 @@ Conducted exploratory data analysis to understand the distribution and relations
 **Decision Tree Classifier:**
 Initialized and trained a Decision Tree Classifier.
 Evaluated the model using appropriate metrics.
+
 **Logistic Regression:**
 Trained a Logistic Regression model.
 Predicted outcomes on training and testing data.
