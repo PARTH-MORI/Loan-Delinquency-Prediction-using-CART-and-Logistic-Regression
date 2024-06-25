@@ -11,13 +11,13 @@
 Conducted exploratory data analysis to understand the distribution and relationships within the data.
 
 ## Model Building and Evaluation:
-  **Decision Tree Classifier:**
-      Initialized and trained a Decision Tree Classifier.
-      Evaluated the model using appropriate metrics.
-  **Logistic Regression:**
-      Trained a Logistic Regression model.
-      Predicted outcomes on training and testing data.
-      Evaluated model performance with classification reports.
+**Decision Tree Classifier:**
+Initialized and trained a Decision Tree Classifier.
+Evaluated the model using appropriate metrics.
+**Logistic Regression:**
+Trained a Logistic Regression model.
+Predicted outcomes on training and testing data.
+Evaluated model performance with classification reports.
 
 ## Tools and Technologies:
   "Utilized Python and libraries such as pandas, numpy, scikit-learn for data manipulation and model building."
